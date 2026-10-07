@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ogel-prog.github.io/precure_item_qr/sitemap.xml
